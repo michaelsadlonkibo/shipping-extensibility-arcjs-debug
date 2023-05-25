@@ -1,0 +1,8 @@
+{
+  "baseUrl": "https://home.mozu.com",
+  "developerAccountId": 0,
+  "developerAccount": {
+    "emailAddress": "email@yourcompany.com"
+  },
+  "workingApplicationKey": "foo.MyCarrier.1.0.0.Release"
+}
